@@ -1,0 +1,3 @@
+[submodule "xsknf"]
+	path = xsknf
+	url = git@github.com:oakeshott/xsknf.git
