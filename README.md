@@ -1,7 +1,8 @@
 # README
+These programs are eBPF, XDP, and AF_XDP based packet processing empowered by lightweight neural network and decision tree.
 
 > [!NOTE]
-> The research achievement, encompassing this program, is currently submitting and under review.
+> The research achievement using this program has already been submitted to a journal and under review. 
 
 ## Setup
 
